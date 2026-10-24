@@ -14,7 +14,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=1sunJ&show_icons=true&hide_border=true&include_all_commits=true
+          options: username=1sunJ&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true
           path: profile/stats.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
@@ -33,9 +33,10 @@ jobs:
           token: ${{ secrets.PROFILE_TOKEN }}
           base: ""
           repositories_affiliations: owner, collaborator, organization_member
+          commits_authoring: 1sunJ, 1sunj, haus
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 30
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 6
