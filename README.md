@@ -1,4 +1,4 @@
-## Developer & freelance instructor at **The Rgorithm**.
+## Developer & instructor at **The Rgorithm**(freelance).
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haus)](https://solved.ac/haus/)
 
