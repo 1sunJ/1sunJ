@@ -1,7 +1,7 @@
-## 원순재 🌱
+## Developer & freelance instructor at **The Rgorithm**.
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haus)](https://solved.ac/haus/)
 
-Developer & freelance instructor at **The Rgorithm**.
 
 ![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis,gradle,py)<br/>
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,styledcomponents)<br/>
