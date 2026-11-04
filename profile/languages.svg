@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.36828864501777" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="163.36828864501777" y="0" width="121.80948528591642" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="285.17777393093417" y="0" width="72.2945680534317" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="357.47234198436587" y="0" width="70.93332624929296" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="428.40566823365884" y="0" width="16.665811574995068" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.0714798086539" y="0" width="14.928520191346054" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.3649019682445" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="163.3649019682445" y="0" width="121.80696013640303" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="285.1718621046476" y="0" width="72.29306936395844" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="357.464931468606" y="0" width="70.93185577879682" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="428.3967872474028" y="0" width="16.675002034240155" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.07178928164296" y="0" width="14.928210718357077" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -60,7 +60,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>3.62%</div>
+                                <div>3.63%</div>
                             </small>
                         </div>
                     </section>
